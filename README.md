@@ -7,6 +7,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/sillygoos23/spider-ma
 ```
 ```lua
 -- (this one is probably at least slightly faster, as it's direct)
-loadstring(game:HttpGet("https://loadstring.net/raw/kdAKY8hY14"))()
+loadstring(game:HttpGet("https://loadstring.net/raw/lOWH7MBB03"))()
 ```
 It's not that good imo, but it works. Feel free to use it whenever/wherever.
